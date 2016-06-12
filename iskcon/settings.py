@@ -79,8 +79,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'isjm_devotees_info',
-        'USER': 'helpchat',
-        'PASSWORD': 'helpchat123',
+        'USER': 'root',
+        'PASSWORD': 'isjm',
         'HOST': 'localhost',  # Or an IP Address that your DB is hosted on
         'PORT': '3306',
     }
