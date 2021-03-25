@@ -116,7 +116,7 @@ python-dateutil==2.5.1
 python-ptrace==0.8.1
 python-twitter==2.2
 pytz==2016.4
-PyYAML==3.11
+PyYAML==5.4
 pyzmq==15.2.0
 qtconsole==4.2.1
 queuelib==1.4.2
