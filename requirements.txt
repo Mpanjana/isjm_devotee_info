@@ -151,7 +151,7 @@ TwitterSearch==1.0.1
 Unidecode==0.4.19
 urllib3==1.14
 w3lib==1.13.0
-Werkzeug==0.11.5
+Werkzeug==0.15.3
 wikipedia==1.4.0
 xvfbwrapper==0.2.8
 zope.interface==4.1.3
