@@ -149,7 +149,7 @@ trend-scorer==1.0.0
 Twisted==16.0.0
 TwitterSearch==1.0.1
 Unidecode==0.4.19
-urllib3==1.14
+urllib3==1.26.5
 w3lib==1.13.0
 Werkzeug==0.11.5
 wikipedia==1.4.0
